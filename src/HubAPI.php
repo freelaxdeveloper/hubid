@@ -1,4 +1,4 @@
-<?php namespace Hub;
+<?php namespace HubID;
 
 
 use GuzzleHttp\Psr7;
@@ -6,7 +6,7 @@ use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;
 use Valitron\Validator;
 
-class HubID
+class HubAPI
 {
   private $private_key;
   private $public_key;

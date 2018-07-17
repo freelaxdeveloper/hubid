@@ -30,6 +30,11 @@ class HubAPI
     $this->client = new Client;
   }
 
+  public function test()
+  {
+    return 'Hello';
+  }
+
   /**
    * Create a password hash
    * For verification, you need to use - passwordVerify(password, hash)

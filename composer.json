@@ -16,5 +16,6 @@
             "name": "serhiyosetskiy",
             "email": "serhiy.osetskiy@qbex.io"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }

@@ -3,7 +3,7 @@
     "description": "API",
     "type": "library",
     "require": {
-        "vlucas/valitron": "^1.4"
+        "vlucas/valitron": "dev-master"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,

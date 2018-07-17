@@ -5,8 +5,6 @@
     "require": {
         "vlucas/valitron": "dev-master"
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "authors": [
         {
             "name": "serhiyosetskiy",
